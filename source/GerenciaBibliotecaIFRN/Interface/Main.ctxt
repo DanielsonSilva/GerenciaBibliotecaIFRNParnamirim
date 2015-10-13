@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=Main(java.util.ResourceBundle)
+comment0.text=\r\n\ Constructor\ for\ the\ Main\ Class\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Executing\ the\ start\ of\ the\ program\r\n\ \r\n\ @param\ \ args\ \ \ arguments\ for\ internationalization\r\n\ @opt\ br\ BR\ Make\ the\ program\ in\ Brazilian\ Portuguese\r\n\ @opt\ en\ US\ Make\ the\ program\ in\ English\r\n\ @opt\ fr\ FR\ Make\ the\ program\ in\ French\r\n
+numComments=2

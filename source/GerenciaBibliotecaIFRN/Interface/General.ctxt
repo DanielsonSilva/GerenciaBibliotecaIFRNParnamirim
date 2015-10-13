@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=messages
+comment0.target=General(java.util.ResourceBundle)
+comment0.text=\r\n\ Constructor\ for\ the\ General\ Class\r\n\ \r\n\ @param\ messages\ Variable\ for\ intercionalization\ of\ the\ program\r\n
+comment1.params=pane\ messages
+comment1.target=void\ addComponentsToPane(java.awt.Container,\ java.util.ResourceBundle)
+comment1.text=\r\n\ Add\ the\ components\ to\ the\ container\ of\ this\ Class\r\n\ \r\n\ @param\ pane\ Container\ that\ will\ receive\ the\ components\r\n\ @param\ messages\ Variable\ for\ internationalization\r\n
+comment2.params=frame\ messages
+comment2.target=void\ addMenuBarToPane(javax.swing.JFrame,\ java.util.ResourceBundle)
+comment2.text=\r\n\ Add\ a\ menu\ bar\ to\ the\ program\r\n\ \r\n\ @param\ pane\ Container\ that\ will\ receive\ the\ components\r\n\ @param\ messages\ Variable\ for\ internationalization\r\n
+numComments=3
