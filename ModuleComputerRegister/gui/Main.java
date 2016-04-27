@@ -1,4 +1,4 @@
-package Interface;
+package gui;
 
 import java.util.*;
 
@@ -38,7 +38,8 @@ public class Main
         if (args.length != 2) {
             language = new String("br");
             country = new String("BR");
-        } else {
+        }
+        else {
             language = new String(args[0]);
             country = new String(args[1]);
         }
